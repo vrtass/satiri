@@ -1,12 +1,12 @@
 title:       "Satiri, Sahabatku Pahlawan Betawi"
-version:     "002---15-Jul-2021"
+version:     "003---15-Jul-2021"
 copyright:   "2021-2021"
 description: >- 
      Satiri, Sahabatku Pahlawan Betawi
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-6"
-author:           "Reno Alamsyah"
+google_analytics: "UA-89852122-14"
+author:           "R. Alamsyah"
 address:          "Jakarta"
 sitemap:          "true"
 plugins:
