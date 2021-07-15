@@ -1,2 +1,1 @@
-# satiri
-Dr. Ir. Satiri M. Zen, MBA.
+index.md
