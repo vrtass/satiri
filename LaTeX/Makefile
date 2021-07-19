@@ -1,5 +1,5 @@
 # (c) 2021-2021 Rahmat M. Samik-Ibrahim
-# REV00 Thu 15 Jul 2021 11:41:09 WIB
+# REV01 Tue 20 Jul 2021 06:49:59 WIB
 # START Thu 15 Jul 2021 11:41:01 WIB
 
 FILE1=Satiri
@@ -8,9 +8,10 @@ DEPFILES= \
     $(FILE1).tex         \
     01-01.tex            \
     Full-License.tex     \
-    mcdumbdumb.jpg       \
+    satiri.jpg           \
     Makefile             \
 
+ALL: $(FILE1).pdf
 
 $(FILE1).pdf: $(DEPFILES)
 	pdflatex $(FILE1)
