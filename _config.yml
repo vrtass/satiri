@@ -1,8 +1,9 @@
 title:       "Satiri Sahabatku Pahlawan Betawi"
-version:     "003---15-Jul-2021"
+version:     "004---19-Jul-2021"
 copyright:   "2021-2021"
 description: >- 
-     Satiri, Sahabatku Pahlawan Betawi
+     Situs ini dibuat sebagai peringatan 100 hari wafatnya bang Satiri atau
+     Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
 google_analytics: "UA-89852122-14"
@@ -16,6 +17,6 @@ urlweb:           "https://satiri.vlsm.org/"
 urlcontact:       "TBS"
 urlgithub:        "https://github.com/Belajar-Latex/satiri/"
 urlghpage:        "https://sitiri.vlsm.org/"
-keywords:         "Dr. Ir. Satiri M. Zen, MBA"
+keywords:         "Dr. Ir. Satiri Muhammad Zen, MBA"
 github:           [metadata]
 

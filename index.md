@@ -3,7 +3,11 @@ layout: "layout"
 title: Satiri Sahabatku Pahlawan Betawi
 ---
 
-Ebook ini merupakan adaptasi dari "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook)"
+<br>
+Situs ini dibuat sebagai peringatan 100 hari wafatnya bang Satiri atau
+Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
+Ebook berikut ini merupakan adaptasi tulisan {{site.author}} 
+dari "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook)" 
   [(01)](https://www.facebook.com/reno.alamsyah.94/posts/10226505323805448)
   [(02)](https://www.facebook.com/reno.alamsyah.94/posts/10226511661043875)
   [(03)](https://www.facebook.com/reno.alamsyah.94/posts/10226517785116973)
@@ -21,11 +25,6 @@ Ebook ini merupakan adaptasi dari "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook)"
 
 <br>
 ### [SATIRI SAHABATKU PAHLAWAN BETAWI (eBook)](LaTeX/Satiri.pdf)
-<br>
-
-Situs ini dibuat sebagai peringatan 100 hari wafatnya bang Satari atau
-Dr. Satiri Muhammad Zen yang meninggalkan kita pada tanggal 25 Juni 2021.
-<br>
 <br>
 <br>
 

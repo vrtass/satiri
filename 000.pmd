@@ -10,6 +10,15 @@ title:  "Files"
 ```
 
 <br>
+### index.md
+
+```
+{% raw %}
+(> index.md <)
+{% endraw %}
+```
+
+<br>
 ### Gemfile
 
 ```
