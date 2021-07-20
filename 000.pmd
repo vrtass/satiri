@@ -19,6 +19,14 @@ title:  "Files"
 ```
 
 <br>
+### Satiri.tex
+
+```
+{% raw %}
+(> LaTeX/Satiri.tex <)
+{% endraw %}
+```
+<br>
 ### Gemfile
 
 ```
