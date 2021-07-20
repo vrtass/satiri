@@ -7,6 +7,21 @@ FILE1=Satiri
 DEPFILES= \
     $(FILE1).tex         \
     01-01.tex            \
+    01-02.tex            \
+    01-03.tex            \
+    01-04.tex            \
+    01-05.tex            \
+    01-06.tex            \
+    01-07.tex            \
+    01-08.tex            \
+    01-09.tex            \
+    01-10.tex            \
+    01-11.tex            \
+    01-12.tex            \
+    01-13.tex            \
+    01-14.tex            \
+    01-15.tex            \
+    hyphenation.tex      \
     Full-License.tex     \
     satiri.jpg           \
     Makefile             \
@@ -18,7 +33,7 @@ $(FILE1).pdf: $(DEPFILES)
 	pdflatex $(FILE1)
 	pdflatex $(FILE1)
 	pdflatex $(FILE1)
-	cp $(FILE1).pdf /tmp/231.pdf
+	cp $(FILE1).pdf /tmp/232.pdf
 
 
 cleanpdf: clean

@@ -3,6 +3,12 @@ layout: "layout"
 title: Satiri Sahabatku Pahlawan Betawi
 ---
 
+<span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS: Just a demo version</span>
+
+<span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS: Just a demo version</span>
+
+<span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS: Just a demo version</span>
+
 <br>
 Situs ini dibuat sebagai peringatan 100 hari wafatnya bang Satiri atau
 Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
@@ -16,8 +22,8 @@ yaitu "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook)"
   [(06)](https://www.facebook.com/reno.alamsyah.94/posts/10226536376181738)
   [(07)](https://www.facebook.com/reno.alamsyah.94/posts/10226542444573444)
   [(08)](https://www.facebook.com/reno.alamsyah.94/posts/10226548650768595)
-  [(09)](https://www.facebook.com/reno.alamsyah.94/posts/10226555102769891)
-  [(10&11)](https://www.facebook.com/reno.alamsyah.94/posts/10226567777246745)
+  [(09&10)](https://www.facebook.com/reno.alamsyah.94/posts/10226555102769891)
+  [(11)](https://www.facebook.com/reno.alamsyah.94/posts/10226567777246745)
   [(12)](https://www.facebook.com/reno.alamsyah.94/posts/10226581568111508)
   [(13)](https://www.facebook.com/reno.alamsyah.94/posts/10226594469034023)
   [(14)](https://www.facebook.com/reno.alamsyah.94/posts/10226600785191923)
