@@ -10,6 +10,7 @@ Situs ini dibuat sebagai peringatan wafatnya bang Satiri atau
 Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
 Ebook berikut ini merupakan adaptasi tulisan dari {{site.author}} 
 yaitu "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook)" 
+
   [(01)](https://www.facebook.com/reno.alamsyah.94/posts/10226505323805448)
   [(02)](https://www.facebook.com/reno.alamsyah.94/posts/10226511661043875)
   [(03)](https://www.facebook.com/reno.alamsyah.94/posts/10226517785116973)
