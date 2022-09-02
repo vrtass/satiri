@@ -1,12 +1,12 @@
 title:       "Satiri Sahabatku Pahlawan Betawi"
-version:     "007---20-Jul-2021"
-copyright:   "2021-2021"
+version:     "008---02-Sep-2022"
+copyright:   "2021-2022"
 description: >- 
-     Situs ini dibuat sebagai peringatan 100 hari wafatnya bang Satiri atau
+     Situs ini dibuat sebagai peringatan wafatnya bang Satiri atau
      Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-14"
+google_analytics: "G-TBJQMLRG9T"
 author:           "R. Alamsyah"
 address:          "Jakarta"
 sitemap:          "true"
@@ -15,7 +15,7 @@ plugins:
   - jekyll-seo-tag
 urlweb:           "https://satiri.vlsm.org/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/Belajar-Latex/satiri/"
+urlgithub:        "https://github.com/vrtass/satiri/"
 urlghpage:        "https://sitiri.vlsm.org/"
 keywords:         "Dr. Ir. Satiri Muhammad Zen, MBA"
 github:           [metadata]
