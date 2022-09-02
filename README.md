@@ -1,5 +1,5 @@
 
-# WORK IN PROGRESS: Just a demo version
+# WORK IN PROGRESS
 
 Situs ini dibuat sebagai peringatan wafatnya bang Satiri atau
 Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.

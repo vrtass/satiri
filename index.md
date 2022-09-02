@@ -3,7 +3,7 @@ layout: "layout"
 title: Satiri Sahabatku Pahlawan Betawi
 ---
 
-<span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS: Just a demo version</span>
+<span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS</span>
 
 <br>
 Situs ini dibuat sebagai peringatan wafatnya bang Satiri atau
