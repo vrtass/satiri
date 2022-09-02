@@ -1,5 +1,5 @@
 
-WORK IN PROGRESS: Just a demo version
+# WORK IN PROGRESS: Just a demo version
 
 Situs ini dibuat sebagai peringatan wafatnya bang Satiri atau
 Dr. Ir. Satiri Muhammad Zen, MBA yang meninggalkan kita pada tanggal 25 Juni 2021 yang lalu.
@@ -23,7 +23,7 @@ yaitu "SATIRI SAHABATKU PAHLAWAN BETAWI (Facebook):"
 
 <br>
 
-# [Satiri Sahabatku Pahlawan Betawi](LaTeX/Satiri.pdf)
+# [PDF: Satiri Sahabatku Pahlawan Betawi](LaTeX/Satiri.pdf)
 
 <br>
 <br>
